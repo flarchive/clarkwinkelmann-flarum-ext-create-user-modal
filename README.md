@@ -2,13 +2,19 @@
 
 > **Read-only archive of released versions of clarkwinkelmann/flarum-ext-create-user-modal.** Not for installation: use [Packagist](https://packagist.org/packages/clarkwinkelmann/flarum-ext-create-user-modal) or the [upstream repository](https://github.com/clarkwinkelmann/flarum-ext-create-user-modal).
 
-**0** versions archived · Latest: [`1.3.1`](https://github.com/flarchive/clarkwinkelmann-flarum-ext-create-user-modal/tree/archive/v1.3.1) · License: `MIT` · Flarum: `^1.2`
+**7** versions archived · Latest: [`1.3.1`](https://github.com/flarchive/clarkwinkelmann-flarum-ext-create-user-modal/tree/archive/v1.3.1) · License: `MIT` · Flarum: `^1.2`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `1.0.0` | 2020-01-23 | `>=0.1.0-beta.11 <0.1.0-beta.13` | [Browse](https://github.com/flarchive/clarkwinkelmann-flarum-ext-create-user-modal/tree/archive/v1.0.0) |
+| `1.0.1` | 2020-03-10 | `>=0.1.0-beta.11 <0.1.0-beta.14` | [Browse](https://github.com/flarchive/clarkwinkelmann-flarum-ext-create-user-modal/tree/archive/v1.0.1) |
+| `1.1.0` | 2020-10-20 | `>=0.1.0-beta.14 <0.1.0-beta.15` | [Browse](https://github.com/flarchive/clarkwinkelmann-flarum-ext-create-user-modal/tree/archive/v1.1.0) |
+| `1.2.0` | 2020-12-21 | `>=0.1.0-beta.15 <0.1.0-beta.16` | [Browse](https://github.com/flarchive/clarkwinkelmann-flarum-ext-create-user-modal/tree/archive/v1.2.0) |
+| `1.2.1` | 2021-03-18 | `>=0.1.0-beta.15 <0.1.0-beta.17` | [Browse](https://github.com/flarchive/clarkwinkelmann-flarum-ext-create-user-modal/tree/archive/v1.2.1) |
+| `1.3.0` | 2021-05-28 | `^1.0` | [Browse](https://github.com/flarchive/clarkwinkelmann-flarum-ext-create-user-modal/tree/archive/v1.3.0) |
+| `1.3.1` | 2022-06-22 | `^1.2` | [Browse](https://github.com/flarchive/clarkwinkelmann-flarum-ext-create-user-modal/tree/archive/v1.3.1) |
 
 Catalog entry: [packages/clarkwinkelmann-flarum-ext-create-user-modal.json](https://github.com/flarchive/archive-index/blob/main/packages/clarkwinkelmann-flarum-ext-create-user-modal.json)
 
